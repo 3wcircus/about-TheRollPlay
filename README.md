@@ -4,8 +4,7 @@ The Roll Play is a Flutter-based story creation app available on web, Android, a
 
 ## Links
 - [Visit the Roll Play Web Version](https://therollplay.com)
-- [Download on the App Store](#) *(Placeholder link, update with actual App Store URL)*
-- [Get it on Google Play](#) *(Placeholder link, update with actual Google Play URL)*
+
 
 ## Screenshots
 
